@@ -27,3 +27,6 @@ int main(){
     scanf("%d", &n);
     n%2==0 ? printf("The number is even") : ("The number is odd");
 }
+
+// use only for if and else condition 
+// only 2 condition
