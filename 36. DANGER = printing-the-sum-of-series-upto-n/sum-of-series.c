@@ -5,16 +5,16 @@
 int main(){
     int n;
     int i;
-    int a = 0;
+    int sum = 0;
     printf("What is the no of terms: \n");
     scanf("%d", &n);
     for(i = 0; i <= n; i++){
         if (i%2 != 0)
         {
-            a = a + i;
+            sum = sum + i;
         } else if (i%2 == 0)
         {
-            a = a - i;
+            sum = sum - i;
         }
         
         
@@ -23,7 +23,7 @@ int main(){
 
     }
 
-    printf("%d", a);
+    printf("%d", sum);
 
 
 }
