@@ -1,0 +1,2 @@
+Problem Solving in C Programming
+This repository contains solutions to various problems and challenges using the C programming language. C programming is a general-purpose, imperative, low-level language that supports structured programming, lexical variable scope, recursion, and static type checking. C programming is widely used for system programming, embedded programming, operating system development, and application development.
