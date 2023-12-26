@@ -22,7 +22,7 @@ int main(){
         for (int j = 1; j <= 4-i; j++)
         {
             printf("%d ", j);
-            a++;
+            
         }
         for (int k = 1; k <= nsp; k++)
         {
