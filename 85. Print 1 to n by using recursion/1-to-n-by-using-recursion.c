@@ -1,4 +1,4 @@
-// Print 1 to n 
+// Print 1 to n by using recursion
 
 
 #include <stdio.h>
