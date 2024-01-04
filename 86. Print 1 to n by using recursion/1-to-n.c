@@ -2,11 +2,11 @@
 
 #include <stdio.h>
 
-void increasing(int x, int n){
-    if(x>n) return;
-    printf("%d\n", x);
-    increasing(x+1, n);
-    return;
+void increasing(int x, int n){   // func{}
+    if(x>n) return;              // base case
+    printf("%d\n", x);           // code 
+    increasing(x+1, n);          // recursive call
+    return;                      // return
 }
 
 int main(){
