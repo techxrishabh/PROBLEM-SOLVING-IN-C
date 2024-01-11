@@ -3,6 +3,7 @@
 // can take single step or double step 
 // no. of ways so that the person reduces nth stairs
 // 2 stair at a time
+// single step double step 
 
 
 #include <stdio.h>
