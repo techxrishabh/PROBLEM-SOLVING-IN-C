@@ -1,4 +1,7 @@
 // SPIRAL PRINTING
+//  Given a positive integer n, generate a n X n matrix filled with elements from 1 to n2(n square) in spiral order.
+//  (Leetcoode - 59)
+
 
 // 1   2   3   4   5
 
